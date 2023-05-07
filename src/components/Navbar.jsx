@@ -33,9 +33,9 @@ const Navbar = () => {
               Blogs
             </NavLink>
 
-            <a className="navbar-item" href="/contact">
-              Contact
-            </a>
+            <NavLink className="navbar-item" to="/ecom">
+              Ecom
+            </NavLink>
           </div>
 
           <div className="navbar-end">
